@@ -13,7 +13,7 @@
 #     return list[1]
 # print (print_return([2,10]))
 
-def first_plus_len(list):
-    print(list[0])
-    return len(list)
-print(first_plus_len([10,3,2,6,4,4]))
+# def first_plus_len(list):
+#     print(list[0])
+#     return len(list)
+# print(first_plus_len([10,3,2,6,4,4]))
